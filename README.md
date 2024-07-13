@@ -13,22 +13,6 @@ Hi, I'm Yousef, a self-taught front-end web developer specializing in React. I a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Projects
-
-### Project 1: [Project Name](Link to Project)
-- **Description**: A brief description of what the project does.
-- **Technologies Used**: List of technologies used.
-- **Features**: Key features of the project.
-
-### Project 2: [Project Name](Link to Project)
-- **Description**: A brief description of what the project does.
-- **Technologies Used**: List of technologies used.
-- **Features**: Key features of the project.
-
-### Project 3: [Project Name](Link to Project)
-- **Description**: A brief description of what the project does.
-- **Technologies Used**: List of technologies used.
-- **Features**: Key features of the project.
 
 ## GitHub Stats
 
