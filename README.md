@@ -73,17 +73,6 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 | **Prop Firm Comparison** | Fintech comparison tool | Dark theme, green accents, OG image system |
 | **LinkedIn Analytics Dashboard** | Analytics dashboard for LinkedIn data | LinkedIn API integration, full project scoping |
 
-## GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yussif20&style=flat-square&color=blue)
-
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussif20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussif20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ## Education
 
 🎓 **Frontend Development Diploma** — Almdrasa  
