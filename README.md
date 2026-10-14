@@ -73,12 +73,12 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 
 | Project | Description | Highlights |
 |---------|-------------|------------|
+| **[FundedForYou](https://fundedforyou.com)** | Prop-firm comparison platform serving 20,000+ traders: challenges, offers, payout certificates, giveaways, admin dashboard | Next.js, Express 5, PostgreSQL, Prisma, Stripe, Socket.io, AR/EN RTL · [live](https://fundedforyou.com) |
 | **[REDA Catalogue](https://reda-catalogue.yousefayman.com)** | Product database + exhibition packing lists for REDA Hazard Control (client, in use): weight/volume totals, Excel import/export, print-ready lists | Next.js 16, PostgreSQL, Drizzle ORM, ExcelJS, AR/EN RTL · [try the demo](https://reda-catalogue.yousefayman.com) |
 | **[Zemam](https://zemam.win)** | Rabbit-farm management app (my own SaaS): breeding-cycle engine turns every doe's dates into a daily task list | Next.js 16, Prisma, PostgreSQL, PWA, Claude API, AR/EN RTL · [try the demo](https://zemam.win) |
 | **[TalentBridge](https://github.com/Yussif20/talent-platform)** | Screening platform + analytics dashboard for a Saudi Ministry of Education special-education programme | Next.js 15 monorepo, Supabase (RLS, Auth, Edge Functions), AR/EN RTL · [live demo](https://stats.talentbridge.yousefayman.com) |
 | **MELCO** | E-commerce platform for Saudi safety equipment provider | Bilingual AR/EN, RTL support, full catalog |
 | **Marketio** | Full-featured marketplace | Stripe integration, Firebase auth |
-| **Prop Firm Comparison** | Fintech comparison tool | Dark theme, green accents, OG image system |
 | **LinkedIn Analytics Dashboard** | Analytics dashboard for LinkedIn data | LinkedIn API integration, full project scoping |
 
 ## Education
