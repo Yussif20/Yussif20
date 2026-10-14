@@ -8,7 +8,8 @@ Building end-to-end web products — from UI/UX and frontend architecture to bac
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ayman-7116232b7)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefayman2000500@gmail.com)
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01455bc8c245e50dce)
+[![Website](https://img.shields.io/badge/-yousefayman.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yousefayman.com)
 
 </div>
 
@@ -18,7 +19,7 @@ Building end-to-end web products — from UI/UX and frontend architecture to bac
 
 Frontend developer transitioning into **product engineering** — I don't just build interfaces, I own the full product lifecycle. From translating business requirements into architecture decisions, to deploying performant applications with strong SEO foundations, I bring a holistic approach to every project.
 
-With **20+ production projects** delivered and a **100% five-star rating** across freelancing platforms serving **25+ clients**, I've built solutions across e-commerce, healthcare, fintech, and corporate sectors. My client return rate sits above **70%**, built on clear communication, clean code, and reliable delivery.
+With **40+ projects** delivered and a **100% five-star rating** across freelancing platforms serving **25+ clients**, I've built solutions across e-commerce, healthcare, fintech, and corporate sectors. My client return rate sits above **70%**, built on clear communication, clean code, and reliable delivery.
 
 Currently freelancing on **Upwork**, where I help clients scope, build, and ship complete web products — not just pixel-perfect UIs.
 
@@ -67,7 +68,7 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 
 | Project | Description | Highlights |
 |---------|-------------|------------|
-| **TalentBridge** | Educational assessment platform | 90+ Lighthouse score, accessible UI |
+| **[TalentBridge](https://github.com/Yussif20/talent-platform)** | Screening platform + analytics dashboard for a Saudi Ministry of Education special-education programme | Next.js 15 monorepo, Supabase (RLS, Auth, Edge Functions), AR/EN RTL · [live demo](https://stats.talentbridge.yousefayman.com) |
 | **MELCO** | E-commerce platform for Saudi safety equipment provider | Bilingual AR/EN, RTL support, full catalog |
 | **Marketio** | Full-featured marketplace | Stripe integration, Firebase auth |
 | **Prop Firm Comparison** | Fintech comparison tool | Dark theme, green accents, OG image system |
