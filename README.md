@@ -73,6 +73,7 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 
 | Project | Description | Highlights |
 |---------|-------------|------------|
+| **[Zemam](https://zemam.win)** | Rabbit-farm management app (my own SaaS): breeding-cycle engine turns every doe's dates into a daily task list | Next.js 16, Prisma, PostgreSQL, PWA, Claude API, AR/EN RTL · [try the demo](https://zemam.win) |
 | **[TalentBridge](https://github.com/Yussif20/talent-platform)** | Screening platform + analytics dashboard for a Saudi Ministry of Education special-education programme | Next.js 15 monorepo, Supabase (RLS, Auth, Edge Functions), AR/EN RTL · [live demo](https://stats.talentbridge.yousefayman.com) |
 | **MELCO** | E-commerce platform for Saudi safety equipment provider | Bilingual AR/EN, RTL support, full catalog |
 | **Marketio** | Full-featured marketplace | Stripe integration, Firebase auth |
