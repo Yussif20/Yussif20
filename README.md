@@ -2,12 +2,12 @@
 
 # Yousef Ayman
 
-**Product-Minded Frontend Engineer**
+**Full Stack Developer**
 
-Building end-to-end web products — from UI/UX and frontend architecture to backend integration, deployment, and SEO.
+Building end-to-end web products in English and Arabic — from UI/UX and frontend architecture to backends, deployment, and SEO.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ayman-7116232b7)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefayman2000500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yussif-ayman)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.ayman.dev@gmail.com)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01455bc8c245e50dce)
 [![Website](https://img.shields.io/badge/-yousefayman.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yousefayman.com)
 
@@ -17,7 +17,7 @@ Building end-to-end web products — from UI/UX and frontend architecture to bac
 
 ## Who I Am
 
-Frontend developer transitioning into **product engineering** — I don't just build interfaces, I own the full product lifecycle. From translating business requirements into architecture decisions, to deploying performant applications with strong SEO foundations, I bring a holistic approach to every project.
+Full stack developer and one partner for your entire product — idea, design, frontend, and backend. I don't just build interfaces, I own the full product lifecycle. From translating business requirements into architecture decisions, to deploying performant applications with strong SEO foundations, I bring a holistic approach to every project.
 
 With **40+ projects** delivered and a **100% five-star rating** across freelancing platforms serving **25+ clients**, I've built solutions across e-commerce, healthcare, fintech, and corporate sectors. My client return rate sits above **70%**, built on clear communication, clean code, and reliable delivery.
 
@@ -39,6 +39,11 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Services**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-0096D6?style=flat-square&logo=fastapi&logoColor=white)
 
 **Data & State**
 
@@ -87,7 +92,7 @@ Currently freelancing on **Upwork**, where I help clients scope, build, and ship
 
 If you have a product idea that needs building end-to-end — let's talk.
 
-[![Email](https://img.shields.io/badge/-yousefayman2000500@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yousefayman2000500@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Yousef_Ayman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ayman-7116232b7)
+[![Email](https://img.shields.io/badge/-yousef.ayman.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yousef.ayman.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Yousef_Ayman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yussif-ayman)
 
 </div>
